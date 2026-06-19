@@ -19,7 +19,7 @@ This is my personal portfolio website, built using **HTML**, **CSS**, and **Java
 
 ## 📡 Live Demo
 
-👉 [https://jglueck21.github.io](https://jglueck21.github.io)
+👉 [https://julianglueck.tech](https://julianglueck.tech)
 
 ## 📌 Notes
 
